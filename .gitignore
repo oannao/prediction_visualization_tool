@@ -1,0 +1,6 @@
+# gitignore setting
+*.pyc
+*.pyo
+.DS_Store
+.Rapp.history
+log/
